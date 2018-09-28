@@ -1,3 +1,6 @@
 [submodule "packer"]
 	path = packer
 	url = https://github.com/colinbut/packer-example.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/colinbut/terraform-aws-example.git
