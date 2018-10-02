@@ -1,1 +1,1 @@
-# hashicorp-products-examples
+# Hashicorp Products Examples
