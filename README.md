@@ -2,6 +2,13 @@
 
 This repository links to my other repositories on showcasing examples of each of the Hashicorp suite of products.
 
+- Vagrant
+- Terraform
+- Packer
+- Vault
+- Consul
+- Nomad
+
 ## Vagrant
 
 One of Hashicorp's earier products. Vagrant is a __Virtual Machine Manager__. 
