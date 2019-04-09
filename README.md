@@ -8,6 +8,8 @@ This repository links to my other repositories on showcasing examples of each of
 * [Vault](#vault)
 * [Consul](#consul)
 * [Nomad](#nomad)
+* [Serf](#serf)
+
 
 ## <a name="vagrant"></a>Vagrant
 
@@ -36,3 +38,7 @@ Consul is of many things. Consul i believe first started as a _Service Discovery
 ## <a name="nomad"></a>Nomad
 
 A container orchestration tool that does the scheduling of your containers. One can think of Nomad as one of Kubernetes alternatives but one that fits into Hashicorp's products eco-system
+
+## <a name="serf"></a>Serf
+
+Cluster Membership | Failure Detection | De-centralized Orchestration
