@@ -13,3 +13,6 @@
 [submodule "nomad"]
 	path = nomad
 	url = https://github.com/colinbut/nomad-nomad-eh.git
+[submodule "serf"]
+	path = serf
+	url = https://github.com/colinbut/serf-case.git
