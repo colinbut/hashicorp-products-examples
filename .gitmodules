@@ -7,3 +7,6 @@
 [submodule "vagrant"]
 	path = vagrant
 	url = https://github.com/colinbut/vagrant-examples
+[submodule "consul"]
+	path = consul
+	url = https://github.com/colinbut/consul-example.git
