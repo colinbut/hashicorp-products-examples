@@ -10,3 +10,6 @@
 [submodule "consul"]
 	path = consul
 	url = https://github.com/colinbut/consul-example.git
+[submodule "nomad"]
+	path = nomad
+	url = https://github.com/colinbut/nomad-nomad-eh.git
